@@ -1,7 +1,7 @@
 # kalugin-et-al-morse
 Code for MORSE project (Kalugin et al.)
 
-Preprint link: https://www.biorxiv.org/content/10.1101/2025.01.26.634931v1
+Preprint link: https://www.biorxiv.org/content/10.1101/2025.01.26.634931v2
 
 ## Description of contents
 1. Motor dipping code for Neurolabware Scanbox two-photon microscope
