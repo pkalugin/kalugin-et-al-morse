@@ -30,4 +30,4 @@ The included folders are numbered in the order of the analysis workflow. Specifi
   * A second application of Caiman to refine the curated masks above on the time-downsampled recording, and a GUI to ensure quality control of these outputs
   * A GUI to incorporate BigWarp alignment of several recordings of the same probe and manually confirm correct mask matching between pairs of recordings
   * A final application of Caiman to apply the curated and matched masks to the original MORSE recording at full temporal resolution
-7. The python code in this folder is used to analyze the single sensor cell traces derived by the above pipelines and generate the figures and supplementary videos in the manuscript. Each jupyter notebook contains a set of outputs roughly corresponding to individual figures in the paper.
+6. The python code in this folder is used to analyze the single sensor cell traces derived by the above pipelines and generate the figures and supplementary videos in the manuscript. Each jupyter notebook contains a set of outputs roughly corresponding to individual figures in the paper.
